@@ -1,0 +1,6 @@
+# YJ0111中英双语共享充电宝投放管理投资理财源码五级分销返利+地图显示模式
+
+测试环境：example.com、宝塔企业版（example.com）、example.com、example.com，根目录public，伪静态laravel5，开启ssl证书<br>前端：修改网站的默认文档 example.com， example.com 改成第二个 ，或者前端访问 example.com<br>数据库修改：根目录下面（不是public目录）example.com<br>语言：中文简体、英文<br><br>example.com（以演示站为准，保证源码和演示站一样，下单前请务必仔细体验演示站）<br>example.com,不包括任何修改和其他服务。<br>example.com，需要买家提供服务器账号及域名。<br>example.com。<br>example.com，可以保证源码安全、稳定，请大家放心购买。<br>example.com（*内附详细安装说明），有点程序基础的就可以安装。如果有需要安装服务的客户，请提前联系客服预约安装。<br>example.com，没有演示的请和客服联系沟通。<br>example.com，我们遵循官方的条规，如果是产品之外的技术问题、服务器原因导致的不能正常运营，我们不接受退款。<br>下单购买源码后，视为同意以上8点，如有疑问随时可咨询客服，做生意贵在沟通，购买源码之前请联系客服，以免产生不必要的纠纷，望各位知悉，合作愉快！<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/dFqvl" style="color: red;">https://mega-file.org/dFqvl</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
